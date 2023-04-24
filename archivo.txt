@@ -6,5 +6,5 @@ main(void)
 	printf ("hola como andas");
 	float num1;
 	scanf ("%f", num1);
-
+	printf ("ya guardamos tu numero");
 }
