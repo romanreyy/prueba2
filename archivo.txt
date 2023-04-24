@@ -1,0 +1,9 @@
+
+#iclude <stdio.h>
+
+main(void)
+{
+	printf ("hola como andas");
+
+
+}
